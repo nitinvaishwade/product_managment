@@ -1,2 +1,2 @@
-# product_managment
- 
+# inventory-management
+This is a inventory management system
